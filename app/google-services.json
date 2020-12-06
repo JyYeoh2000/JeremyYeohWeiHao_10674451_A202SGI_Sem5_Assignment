@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315355243123",
+    "project_id": "chatmessage-fc827",
+    "storage_bucket": "chatmessage-fc827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315355243123:android:af6ce22723be9767250006",
+        "android_client_info": {
+          "package_name": "com.inti.student.chatmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315355243123-lem0m7a0qfpr5qoacej8paqhmdt37q0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inti.student.chatmessage",
+            "certificate_hash": "8b156ab33fc96f662e3b20b8a95b48e74747c7ba"
+          }
+        },
+        {
+          "client_id": "315355243123-tc2tj8ss7ss8cgghhmr0c53rhqglkim4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYIA3FNJedqA8NQ45w1bePiGusfvRmHLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315355243123-tc2tj8ss7ss8cgghhmr0c53rhqglkim4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
